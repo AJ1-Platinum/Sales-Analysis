@@ -54,7 +54,8 @@ This project analyzes global shark attack data to identify trends, high-risk loc
 - Examined **time of day & seasonal attack trends**
 - Correlated **human activities with shark attacks**
   
-  ![Dashboard Overview](images/dashboard_overview.png
+  
+
 
 ## 📢 Results & Findings
 - Shark attacks have increased over time, especially in coastal regions of **USA, Australia, and South Africa**.
