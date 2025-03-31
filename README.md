@@ -54,8 +54,9 @@ This project analyzes global shark attack data to identify trends, high-risk loc
 - Examined **time of day & seasonal attack trends**
 - Correlated **human activities with shark attacks**
   
-  ![Dashboard_Overview](images/https://github.com/AJ1-Platinum/Shark-Attack-Analysis/blob/e6b2cc0c3d20dd0fadcda725c01b981a4393be89/shark%20attack%20capstone%20project%205.2-pdf.pdf)
+  
 
+[shark attack capstone project 5.2-pdf.pdf](https://github.com/user-attachments/files/19539419/shark.attack.capstone.project.5.2-pdf.pdf)
 
 ## 📢 Results & Findings
 - Shark attacks have increased over time, especially in coastal regions of **USA, Australia, and South Africa**.
