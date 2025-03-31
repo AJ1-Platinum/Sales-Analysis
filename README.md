@@ -56,7 +56,10 @@ This project analyzes global shark attack data to identify trends, high-risk loc
   
   
 
-[shark attack capstone project 5.2-pdf.pdf](https://github.com/user-attachments/files/19539419/shark.attack.capstone.project.5.2-pdf.pdf)
+![sharkdashboard](https://github.com/user-attachments/assets/1c15e3cb-84fc-4473-ba2a-d8163db38595)
+
+
+![sharkdashboard png 2](https://github.com/user-attachments/assets/499c52a4-0c0b-4373-ad8d-b08be15e7499)
 
 ## 📢 Results & Findings
 - Shark attacks have increased over time, especially in coastal regions of **USA, Australia, and South Africa**.
